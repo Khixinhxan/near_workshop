@@ -1,0 +1,12 @@
+/Users/hoaidang97/Desktop/Study/workshop/target/debug/deps/borsh-35cd9670ed16f419.rmeta: /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/lib.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/de/mod.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/de/hint.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/schema.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/schema_helpers.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/ser/mod.rs
+
+/Users/hoaidang97/Desktop/Study/workshop/target/debug/deps/libborsh-35cd9670ed16f419.rlib: /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/lib.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/de/mod.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/de/hint.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/schema.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/schema_helpers.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/ser/mod.rs
+
+/Users/hoaidang97/Desktop/Study/workshop/target/debug/deps/borsh-35cd9670ed16f419.d: /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/lib.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/de/mod.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/de/hint.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/schema.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/schema_helpers.rs /Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/ser/mod.rs
+
+/Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/lib.rs:
+/Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/de/mod.rs:
+/Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/de/hint.rs:
+/Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/schema.rs:
+/Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/schema_helpers.rs:
+/Users/hoaidang97/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.0/src/ser/mod.rs:

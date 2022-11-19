@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/hoaidang97/Desktop/Study/workshop/target/wasm32-unknown-unknown/release/build/typenum-ea2a545269b43c9c/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/hoaidang97/Desktop/Study/workshop/target/wasm32-unknown-unknown/release/build/typenum-ea2a545269b43c9c/out/op.rs
